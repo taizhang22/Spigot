@@ -1,9 +1,9 @@
 name: diceRoll
 description:
-version: 1.0
+version: 1.1
 main: me.tzhang.monopoly.monopolyMain
 
 commands:
   roll:
     usage:/<command>
-    description: roll 2 6-die
+    description: roll x2 6-die
